@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Liquid</string>
+    <string name="base_url" translatable="false">https://zw.myliquidhome.tech/api/v1</string>
+    <string name="connection_url" translatable="false">/GetConnectedServiceDetails</string>
+</resources>
